@@ -27,6 +27,7 @@ $currentDate = date('l, F j, Y h:i:s A');
             background-color: #fff;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
+        <div class="tenor-gif-embed" data-postid="27650691" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/veera-simha-reddy-telugu-kush-nandamuri-balakrishna-nbk-gif-27650691">Veera Simha Reddy Telugu GIF</a>from <a href="https://tenor.com/search/veera+simha+reddy-gifs">Veera Simha Reddy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
         form {
             margin-top: 20px;
         }
